@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PickLocation</string>
+    <string name="title">PickLocation App</string>
+    <string name="developer_name">Done By Maymonah</string>
+    <string name="map_button">Show The Map</string>
+    <string name="my_location_details">My Current Location Info</string>
+    <string name="longitude_lable">Longitude</string>
+    <string name="latitude_lable">Latitude</string>
+    <string name="app_describation_text">This app created using Google Maps Api to get the device curent location and display geographic coordinates </string>
+    <string name="marker_title">My Location</string>
+
+
+</resources>
